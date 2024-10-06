@@ -4,6 +4,7 @@
 | --- | --- | --- | --- | --- | 
 | UniTalker: Scaling up Audio-Driven 3D Facial Animation through A Unified Model | ECCV | 2024 | [Code](https://github.com/X-niper/UniTalker) | [Paper](https://arxiv.org/abs/2408.00762) |
 | KMTalk: Speech-Driven 3D Facial Animation with Key Motion Embedding | ECCV | 2024 | [Code](https://github.com/ffxzh/KMTalk) | [Paper](https://arxiv.org/abs/2409.01113) |
+| DiffPoseTalk: Speech-Driven Stylistic 3D Facial Animation and Head Pose Generation via Diffusion Models | SIGGRAPH | 2024 | [Code](https://github.com/DiffPoseTalk/DiffPoseTalk) | [Paper](https://arxiv.org/abs/2310.00434) |
 | Probabilistic Speech-Driven 3D Facial Motion Synthesis: New Benchmarks, Methods, and Applications | CVPR  | 2024 | - | [Paper](https://arxiv.org/abs/2311.18168)
 | FaceTalk: Audio-Driven Motion Diffusion for Neural Parametric Head Models | CVPR | 2024 | [Code](https://github.com/shivangi-aneja/FaceTalk) | [Paper](https://arxiv.org/abs/2312.08459) |
 | DiffSpeaker: Speech-Driven 3D Facial Animation with Diffusion Transformer | arXiv | 2024 | [Code](https://github.com/theEricMa/DiffSpeaker?tab=readme-ov-file) | [Paper](https://arxiv.org/abs/2402.05712) 
