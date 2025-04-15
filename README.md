@@ -5,6 +5,7 @@
   - Perceptually Accurate 3D Talking Head Generation: New Definitions, Speech-Mesh Representation, and Evaluation Metrics (**CVPR 2025**) [Paper](https://www.arxiv.org/pdf/2503.20308)
   - DEEPTalk: Dynamic Emotion Embedding for Probabilistic Speech-Driven 3D Face Animation (**AAAI 2025**) [Paper](https://arxiv.org/abs/2408.06010) | [Code](https://github.com/whwjdqls/DEEPTalk)
   - ProsodyTalker: 3D Visual Speech Animation via Prosody Decomposition (**AAAI 2025**)
+  - EmoVOCA: Speech-Driven Emotional 3D Talking Heads (**WACV 2025**) [Paper](https://arxiv.org/abs/2403.12886) | [Code](https://github.com/miccunifi/EmoVOCA)
 ## 2024
   - UniTalker: Scaling up Audio-Driven 3D Facial Animation through A Unified Model (**ECCV 2024**) [Code](https://github.com/X-niper/UniTalker) | [Paper](https://arxiv.org/abs/2408.00762)
   - KMTalk: Speech-Driven 3D Facial Animation with Key Motion Embedding (**ECCV 2024**) [Code](https://github.com/ffxzh/KMTalk) | [Paper](https://arxiv.org/abs/2409.01113)
